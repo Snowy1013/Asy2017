@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/Asy2017/ayo-view-lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72fea9a2d358a5eb94b85f51b8ba770330c55894">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/Asy2017-ayo-view-lib-unspecified_5a079f180695ec27538726ec83dcab7cb51e7372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_de12d3a6820b90926f89ad52b670fdb3786aae79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_fe046bb9507e23e03d75daff1f0916647a74869d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/Asy2017/ayo-menu-lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62d160ae56c63ee83e14b3cce1340a059b070e60">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/Asy2017-ayo-menu-lib-unspecified_1f8bb08d081afaa8d1b6fd204710ed717609eb21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/Asy2017/ayo-view-lib/unspecified/jars/libs/renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff902fa0949c4916ca315a452537062824003747">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/renderscript-v8_0dfc4deebd2fe8fc9d99f5bd806a09372ab0dac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_86c92493d76840c04d8eef518c1aa4eaac09af91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/rxjava-1.1.0_741de480e92cb4fc46b03a6af19b189574b32519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/gson-2.3_cd5efb8a9584f8fbc99ce426df10a117aff8c087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/Asy2017/ayo-view-lib/unspecified/jars/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_08041011aad7e3c7d7b792cf44e44a782cd45cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_12ed2ec062e248482ab279c6b7ec350b1dc42dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-generator/2.2.0/5b915c8048e21a27bd6e061490af62c017a7dcd/greendao-generator-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05b915c8048e21a27bd6e061490af62c017a7dcd">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/greendao-generator-2.2.0_d71700675bd24e9bfa68014b4bd1aff20321fe77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_8c16195c63b75be0777f4bf925f29b1471caa2b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/Asy2017/ayo-component/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="154156f992758294b3bf039642588f3a94372723">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/Asy2017-ayo-component-unspecified_d141d87ce76768c8feb54674a55dedd896675135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/lib/android/adt-bundle-linux/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0ecf8264a6230cd898658b4191178fa7d0092795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/2.2.0/fc87fa8db9e03b78b453bb079b77ae4942bc5b20/greendao-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc87fa8db9e03b78b453bb079b77ae4942bc5b20">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/greendao-2.2.0_d064329769f84987b69f3c398eb42f9cdc712f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_5903938b4badfbc4e4440ba85b59431fae53b55a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/freemarker-2.3.23_60087e00bca5cc08697acc78f487f8c86a6daae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_0d24053eab7f90ab1d314b3ed301b6d577995226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/okio-1.6.0_90abd4d86588127ada3dd531ca37d642c9a89df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_4751cda027967403e71894bb29217a1dc72eee21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/zx/own-code/MyNew/Asy2017/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_c170d9dd1c47f4335f06a5c397441a8c0eeaab43.jar" />
+    </item>
+
+</items>

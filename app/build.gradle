@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+Properties configer = new Properties()
+configer.load(new FileInputStream(file("../config.properties")))
+
+android {
+    compileSdkVersion Integer.valueOf(configer['compileSdkVersion'])
+    buildToolsVersion configer['buildToolsVersion']
+    defaultConfig {
+        applicationId "com.snowy.sample"
+        minSdkVersion Integer.valueOf(configer['minSdkVersion'])
+        targetSdkVersion Integer.valueOf(configer['targetSdkVersion'])
+        versionCode Integer.valueOf(configer['versionCode'])
+        versionName configer['versionName']
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+            java.srcDirs = ['src/main/java']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile configer['lib_appcompat']
+    compile configer['lib_recyclerview']
+    compile configer['lib_design']
+    compile configer['lib_cardview']
+    compile project(':ayo-component')
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.google.code.gson:gson:2.3'
+    // okhttp
+    compile 'com.squareup.okhttp3:okhttp:3.2.0'
+    // green dao library
+    compile 'org.greenrobot:greendao:2.2.0'
+    compile 'org.greenrobot:greendao-generator:2.2.0'
+    //rx
+    compile 'io.reactivex:rxjava:1.1.0'
+    compile 'io.reactivex:rxandroid:1.1.0'
+    compile project(':ayo-menu-lib')
+    compile project(path: ':ayo-view-lib')
+}
