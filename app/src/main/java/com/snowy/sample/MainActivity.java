@@ -7,6 +7,7 @@ import com.snowy.sample.primary.camera.CameraDemoActivity;
 import com.snowy.sample.primary.contacts.ContactsDemoActivity;
 import com.snowy.sample.primary.imgandanim.ImageAndAnimationActivity;
 import com.snowy.sample.primary.print.PrintDemoActivity;
+import com.snowy.sample.primary.share.ShareDemoActivity;
 import com.snowy.sample.primary.systembartint.SystemBarTintMainActivity;
 import com.snowy.sample.uicode.ClockActivity;
 import com.snowy.sample.uicode.DrawViewActivity;
@@ -56,6 +57,7 @@ public class MainActivity extends MainPagerActivity {
             {
                 menuItem2.addLeaf(new Leaf("通讯录", "", ContactsDemoActivity.class));
                 menuItem2.addLeaf(new Leaf("Android浸入式 ", "", SystemBarTintMainActivity.class));
+                menuItem2.addLeaf(new Leaf("分享", "", ShareDemoActivity.class));
                 menuItem2.addLeaf(new Leaf("相机", "", CameraDemoActivity.class));
                 menuItem2.addLeaf(new Leaf("打印", "", PrintDemoActivity.class));
                 menuItem2.addLeaf(new Leaf("图像与动画", "", ImageAndAnimationActivity.class));
@@ -83,42 +85,4 @@ public class MainActivity extends MainPagerActivity {
 
         return menus;
     }
-    /*
-    * Menu menu = new Menu("UI框架", R.drawable.typical_ic_weixin_normal, R.drawable.typical_ic_weixin_pressed);
-        arr.add(menu);
-        {
-            MenuItem menuItem = new MenuItem("Master", R.drawable.typical_ic_weixin_normal, R.drawable.typical_ic_weixin_pressed);
-            menu.addMenuItem(menuItem);
-            {
-                menuItem.addLeaf(new Leaf("Fragmentation原生demo", "", EnterActivity.class));
-                menuItem.addLeaf(new Leaf("免manifest模式--一个MasterFragment就是一个Activity", "注意模板Activity和MasterFragment的生命周期关系有问题，只能激活一个", DemoPage.class));
-                menuItem.addLeaf(new Leaf("MasterFragment既可以当Activity用，也可以当Fragment用", "", null));
-                menuItem.addLeaf(new Leaf("在此基础上，使用主MasterFragment管理子MasterFragment", "", null));
-                menuItem.addLeaf(new Leaf("MasterFragment：Tab模式-无回退栈", "", DemoTabActivity.class));
-                menuItem.addLeaf(new Leaf("MasterFragment：ViewPager模式--无回退栈", "", DemoPagerActivity.class));
-                menuItem.addLeaf(new Leaf("MasterFragment：Nest模式--带回退栈", "", null));
-                menuItem.addLeaf(new Leaf("MasterFragment：Compose模式--同时显示，无回退栈", "", null));
-                menuItem.addLeaf(new Leaf("MasterFragment的Schema支持--必须配合模板Activity", "", null));
-                menuItem.addLeaf(new Leaf("MasterFragment的内存重启支持", "", null));
-                menuItem.addLeaf(new Leaf("Swipeback支持", "", null));
-                menuItem.addLeaf(new Leaf("过场动画支持", "", null));
-                menuItem.addLeaf(new Leaf("Transition动画支持", "", null));
-            }
-        }
-
-        menu = new Menu("权限", R.drawable.typical_ic_weixin_normal, R.drawable.typical_ic_weixin_pressed);
-        arr.add(menu);
-        {
-            MenuItem menuItem = new MenuItem("原生代码", R.drawable.typical_ic_weixin_normal, R.drawable.typical_ic_weixin_pressed);
-            menu.addMenuItem(menuItem);
-            {
-                menuItem.addLeaf(new Leaf("谷歌动态权限demo", "", PermissionMainActivity.class, 1));
-            }
-
-            menuItem = new MenuItem("工具类", R.drawable.typical_ic_weixin_normal, R.drawable.typical_ic_weixin_pressed);
-            menu.addMenuItem(menuItem);
-            {
-                menuItem.addLeaf(new Leaf("一个挺好用的小工具类", "", PermissionMainActivity.class, 1));
-            }
-        }*/
 }

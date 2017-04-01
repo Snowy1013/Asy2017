@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Asy2017.iml" filepath="$PROJECT_DIR$/Asy2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ayo-component/ayo-component.iml" filepath="$PROJECT_DIR$/ayo-component/ayo-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ayo-menu-lib/ayo-menu-lib.iml" filepath="$PROJECT_DIR$/ayo-menu-lib/ayo-menu-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ayo-view-lib/ayo-view-lib.iml" filepath="$PROJECT_DIR$/ayo-view-lib/ayo-view-lib.iml" />
+    </modules>
+  </component>
+</project>

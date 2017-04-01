@@ -1,6 +1,5 @@
 package com.snowy.sample.primary.imgandanim;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.View;
@@ -39,7 +38,6 @@ public class ImageAndAnimationActivity extends MasterFragment implements View.On
     @Override
     public void onClick(View v) {
         int viewId = v.getId();
-        Intent intent = null;
         switch (viewId) {
             case R.id.btn_animat_frame: //帧动画
                 start(new FrameAnimateActivity());
@@ -51,7 +49,7 @@ public class ImageAndAnimationActivity extends MasterFragment implements View.On
                 start(new PropertyAnimateActivity());
                 break;
             case R.id.btn_load_bigimg:
-//                ActivityAttacher.startActivity(getActivity(), ImageDemoActivity.class);
+                start(new ImageDemoActivity());//高效加载大图片
                 break;
         }
     }
